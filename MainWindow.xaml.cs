@@ -24,6 +24,7 @@ namespace addition_app
         {
             InitializeComponent();
             //сложение 2х чисел
+            //вычитание
         }
     }
 }
